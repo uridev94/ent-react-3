@@ -59,7 +59,7 @@ a{
     height: 300px;
     background-size: cover;
     background-repeat: no-repeat;
-    display: flex;
+    background-position: center center;
 }
 
 .app__container{
